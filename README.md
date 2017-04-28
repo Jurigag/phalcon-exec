@@ -1,4 +1,4 @@
-# phalcon-exec
+# phalcon-repl
 Application written in Phalcon and VueJS to test phalcon code online
 
 # Todo:
