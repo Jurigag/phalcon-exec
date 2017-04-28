@@ -10,3 +10,4 @@ Application written in Phalcon and VueJS to test phalcon code online
 - [ ] PHP/Phalcon version chooser - choose on which phalcon/php version you want run your code
 - [ ] Auto-update phalcon to latest one each day
 - [ ] Run same code on multiple php/phalcon version
+- [ ] Forum integration(?)
